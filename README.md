@@ -4,7 +4,7 @@ Profile Status
 <h3 align="center">🎓 Computer Science Student | 🤖 Aspiring AI/ML Engineer | 💻 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pawanm006583-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -64,8 +64,8 @@ Profile Status
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawanm006583-rgb&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanm006583-rgb&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Profile Status
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanm006583-rgb&theme=tokyonight" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Profile Status
   <a href="https://github.com/pawanm006583-rgb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/pawan-mishra720" target="_blank">
+  <a href="https://www.linkedin.com/in/pawan-mishra720" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
