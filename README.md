@@ -64,17 +64,24 @@ Profile Status
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanm006583-rgb&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanm006583-rgb&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/badge/Repos-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-Growing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20ML%20%7C%20Flask-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Consistency
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanm006583-rgb&theme=tokyonight" />
-</p>
+> 💡 *I believe in learning and improving every single day.*  
+> 🚀 *Progress > Perfection*
+
+
+
 
 ---
 
